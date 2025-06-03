@@ -1,0 +1,1 @@
+ -agentpath:/home/yasser/opt/async-profiler-3.0-linux-x64/lib/libasyncProfiler.so=start,event=cpu,file=profile.html,include=com/yshow/mychat/*
